@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div align="center">
-![In Construction](/images/construction.gif)
+  
+![](/images/construction.gif)
 
 
 ### 🛠 Languages and Tools
