@@ -1,10 +1,7 @@
 ### Hi there 👋
-1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+    ![Tux, the Linux mascot](construction.gif)
 
-3. Close the file.
 **maximeduvey/maximeduvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
