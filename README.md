@@ -1,4 +1,5 @@
-<h2 title="title"> Hello i'm Samael !</h2>
+<h2 title="title"> Hello i'm DUVEY Maxime !</h2>
+<p> A passionate Software engineer and roboticist in my lost time.</p>
 <div align="center">
 
   ![](/images/construction.gif)
