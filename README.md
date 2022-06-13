@@ -1,5 +1,5 @@
-<h2 title="title"> Hello i'm DUVEY Maxime !</h2>
-<p> A passionate Software engineer and roboticist in my lost time.</p>
+<h2 title="title"> Hello Everyone !</h2>
+<p> I'm a passionate Software engineer and roboticist in my lost time.</p>
 <div align="center">
 
   ![](/images/construction.gif)
