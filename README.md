@@ -1,6 +1,6 @@
 <h2 title="title"> Hello Everyone !</h2>
 <p> I'm a passionate Software engineer and roboticist in my lost time.</p>
-<p> I'll be completly honest, for now i don't have to make visibility on this page (maybe later)</p>
+<p> I'll be completly honest, for now i don't have the time to make visibility on this page (maybe later)</p>
 <p> nearly every project i make is in private, it should change in the future, but for now priority on the code and maths :) </p>
 
 <div align="center">
